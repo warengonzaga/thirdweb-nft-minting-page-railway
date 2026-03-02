@@ -8,8 +8,6 @@ Single page application for minting NFTs and Cryptocurrencies powered by thirdwe
 
 ![Demo](assets/demo.png)
 
-Check out the live demo here: <https://nft-minting-page.up.railway.app>
-
 ## Features
 
 - Mint NFTs and Cryptocurrencies
